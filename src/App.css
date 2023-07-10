@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+nav{
+  background-color: orangered;
+}
+
+nav .navbar-brand{
+  color: white;
+  text-decoration: none;
+}
+
+
+nav .navbar-nav .nav-item .nav-link{
+
+color: white;
+
+}
+
+
+.card-color{
+  background-color: orangered;
+  color: white;
+}
+
+
+body{
+  background-color: #282c34;
+}
+
+
+.news-text{
+  color: orangered;
+}
+
+
+.btn-color{
+  background-color: orangered;
+  color: white;
+}
